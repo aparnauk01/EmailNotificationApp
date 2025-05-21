@@ -12,3 +12,5 @@ AWS Lambda – Serverless function that processes the CSV and sends an email.
 
 Amazon SES (Simple Email Service) or SNS (Simple Notification Service) – For sending the email.
 
+
+![Screenshot](EmailApp Architecture.png)
