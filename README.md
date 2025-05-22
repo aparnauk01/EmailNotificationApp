@@ -1,6 +1,6 @@
 # EmailNotificationApp
 
-This project automates email sending by processing email addresses and messages from a CSV file uploaded to S3,using Lambda and SES for efficient delivery.
+This website showcases my experiance, home projects and my learnings. This Project is used to host a portfolio static website using S3 Bucket ,Cloudfront and Route53.Secured it using AWS WAF.
 
 # Architecture Components
 
